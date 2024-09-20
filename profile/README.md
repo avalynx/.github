@@ -76,7 +76,7 @@ AvalynxSimpleAdmin is a simple admin interface based on Bootstrap >=5.3.
 
 **Status:** [available](https://github.com/avalynx/avalynx-simpleadmin)
 
-**Demo:** [open](https://avalynx-simpleadmin.jbs-newmedia.de/examples/index.html)
+**Demo:** in progress
 
 ## AvalynxTable
 
