@@ -1,12 +1,17 @@
-## Hi there 👋
+# Avalynx JS Libraries
 
-<!--
+This repository provides several useful Vanilla JS libraries based on **Bootstrap 5.3**. All libraries are licensed under the **MIT License** and offer simple, flexible solutions for web applications without external framework dependencies.
 
-**Here are some ideas to get you started:**
+## Avalynx Datatable ##
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+AvalynxDataTable is a simple, lightweight, and customizable datatable for the web. Based on Bootstrap >=5.3 without any framework dependencies.
+
+**Status:** [Available](https://github.com/avalynx/datatable)
+
+## Usage
+
+All libraries are easy to integrate into existing projects and rely solely on Bootstrap >=5.3. For implementation details and examples, please refer to the individual library repositories.
+
+## License
+
+This project is licensed under the MIT License.
