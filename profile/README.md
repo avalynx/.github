@@ -6,9 +6,9 @@ This repository provides several useful Vanilla JS libraries based on **Bootstra
 
 AvalynxAlert is a simple alert system for web applications.
 
-**Status:** [Available](https://github.com/avalynx/avalynx-alert)
+**Status:** <a href="https://github.com/avalynx/avalynx-alert" target="_blank">available</a>
 
-[Demo](https://avalynx-alert.jbs-newmedia.de/examples/index.html)
+**Demo**: <a href="https://avalynx-alert.jbs-newmedia.de/examples/index.html" target="_blank">available</a>
 
 ## AvalynxDatatable ##
 
