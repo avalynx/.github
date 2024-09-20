@@ -8,11 +8,23 @@ AvalynxAlert is a simple alert system for web applications.
 
 **Status:** [Available](https://github.com/avalynx/avalynx-alert)
 
+[Demo](https://avalynx-alert.jbs-newmedia.de/examples/index.html)
+
 ## AvalynxDatatable ##
 
 AvalynxDataTable is a simple, lightweight, and customizable datatable for the web.
 
 **Status:** [Available](https://github.com/avalynx/avalynx-datatable)
+
+[Demo](https://avalynx-datatable.jbs-newmedia.de/examples/index.html)
+
+## AvalynxForm
+
+AvalynxForm is a lightweight, customizable form handling library for web applications.
+
+**Status:** [Available](https://github.com/avalynx/avalynx-form)
+
+[Demo](https://avalynx-form.jbs-newmedia.de/examples/index.html)
 
 ## Usage
 
