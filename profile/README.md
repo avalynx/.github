@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/avalynx">
+    <img src="https://avatars.githubusercontent.com/u/160726310?s=300" alt="Avalynx logo" width="300" height="300">
+  </a>
+</p>
+
 # Avalynx JS Libraries
 
 This repository provides several useful Vanilla JS libraries based on **Bootstrap 5.3**. All libraries are licensed under the **MIT License** and offer simple, flexible solutions for web applications without external framework dependencies.
