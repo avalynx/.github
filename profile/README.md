@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/avalynx">
-    <img src="https://avatars.githubusercontent.com/u/160726310?s=300" alt="Avalynx logo" width="300" height="300">
-  </a>
+  <img src="https://avatars.githubusercontent.com/u/160726310?s=300" alt="Avalynx logo" width="300" height="300">
 </p>
 
 # Avalynx JS Libraries
