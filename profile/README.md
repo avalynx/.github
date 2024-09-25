@@ -14,6 +14,8 @@ AvalynxAlert is a simple alert system for web applications.
 
 **Demo**: [open](https://avalynx-alert.jbs-newmedia.de/examples/index.html)
 
+![github stars](https://img.shields.io/github/stars/avalynx/avalynx-alert)
+
 ## AvalynxDatatable ##
 
 AvalynxDataTable is a simple, lightweight, and customizable datatable for the web.
@@ -21,6 +23,8 @@ AvalynxDataTable is a simple, lightweight, and customizable datatable for the we
 **Status:** [available](https://github.com/avalynx/avalynx-datatable)
 
 **Demo:** [open](https://avalynx-datatable.jbs-newmedia.de/examples/index.html)
+
+![github stars](https://img.shields.io/github/stars/avalynx/avalynx-datatable)
 
 ## AvalynxForm
 
@@ -30,6 +34,8 @@ AvalynxForm is a lightweight, customizable form handling library for web applica
 
 **Demo:** [open](https://avalynx-form.jbs-newmedia.de/examples/index.html)
 
+![github stars](https://img.shields.io/github/stars/avalynx/avalynx-form)
+
 ## AvalynxLightbox
 
 AvalynxLightbox is a simple, lightweight, and easy-to-use lightbox library.
@@ -37,6 +43,8 @@ AvalynxLightbox is a simple, lightweight, and easy-to-use lightbox library.
 **Status:** [available](https://github.com/avalynx/avalynx-lightbox)
 
 **Demo:** [open](https://avalynx-lightbox.jbs-newmedia.de/examples/index.html)
+
+![github stars](https://img.shields.io/github/stars/avalynx/avalynx-lightbox)
 
 ## AvalynxLoader
 
@@ -46,6 +54,8 @@ AvalynxLoader is a lightweight JavaScript library designed to provide a loading 
 
 **Demo:** [open](https://avalynx-loader.jbs-newmedia.de/examples/index.html)
 
+![github stars](https://img.shields.io/github/stars/avalynx/avalynx-loader)
+
 ## AvalynxModal
 
 AvalynxModal is a simple modal system for web applications with fullscreen support.
@@ -53,6 +63,8 @@ AvalynxModal is a simple modal system for web applications with fullscreen suppo
 **Status:** [available](https://github.com/avalynx/avalynx-modal)
 
 **Demo:** [open](https://avalynx-modal.jbs-newmedia.de/examples/index.html)
+
+![github stars](https://img.shields.io/github/stars/avalynx/avalynx-modal)
 
 ## AvalynxRef
 
@@ -62,6 +74,8 @@ AvalynxRef is a Ref implementation for updating elements with a value like React
 
 **Demo:** [open](https://avalynx-ref.jbs-newmedia.de/examples/index.html)
 
+![github stars](https://img.shields.io/github/stars/avalynx/avalynx-ref)
+
 ## AvalynxSelect
 
 AvalynxSelect is a lightweight, customizable select dropdown component for web applications.
@@ -70,11 +84,15 @@ AvalynxSelect is a lightweight, customizable select dropdown component for web a
 
 **Demo:** [open](https://avalynx-select.jbs-newmedia.de/examples/index.html)
 
+![github stars](https://img.shields.io/github/stars/avalynx/avalynx-select)
+
 ## AvalynxSimpleAdmin
 
 AvalynxSimpleAdmin is a simple admin interface based on Bootstrap >=5.3.
 
 **Status:** [available](https://github.com/avalynx/avalynx-simpleadmin)
+
+![github stars](https://img.shields.io/github/stars/avalynx/avalynx-simpleadmin)
 
 **Demo:** in progress
 
@@ -85,6 +103,8 @@ AvalynxTable is a lightweight, dependency-free table system designed for respons
 **Status:** [available](https://github.com/avalynx/avalynx-table)
 
 **Demo:** [open](https://avalynx-table.jbs-newmedia.de/examples/index.html)
+
+![github stars](https://img.shields.io/github/stars/avalynx/avalynx-table)
 
 
 ## Usage
