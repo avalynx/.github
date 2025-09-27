@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/160726310?s=300" alt="Avalynx logo" width="300" height="300">
-  AvalynxJSLibraries
+  <img src="https://avatars.githubusercontent.com/u/160726310?s=300" alt="Avalynx logo" width="300" height="300"><br/>
+  **AvalynxJSLibraries**
 </p>
 
 
