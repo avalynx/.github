@@ -17,6 +17,8 @@ AvalynxAlert is a simple alert system for web applications.
 
 ![github stars](https://img.shields.io/github/stars/avalynx/avalynx-alert)
 
+[![](https://data.jsdelivr.com/v1/package/npm/avalynx-alert/badge)](https://www.jsdelivr.com/package/npm/avalynx-alert)
+
 ## AvalynxDatatable ##
 
 AvalynxDataTable is a simple, lightweight, and customizable datatable for the web.
