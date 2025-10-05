@@ -17,7 +17,7 @@ AvalynxAlert is a simple alert system for web applications.
 
 ![github stars](https://img.shields.io/github/stars/avalynx/avalynx-alert)
 
-[![](https://data.jsdelivr.com/v1/package/npm/avalynx-alert/badge)](https://www.jsdelivr.com/package/npm/avalynx-alert)
+[![](https://data.jsdelivr.com/v1/package/npm/avalynx-alert/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-alert)
 
 ## AvalynxDatatable ##
 
@@ -29,6 +29,8 @@ AvalynxDataTable is a simple, lightweight, and customizable datatable for the we
 
 ![github stars](https://img.shields.io/github/stars/avalynx/avalynx-datatable)
 
+[![](https://data.jsdelivr.com/v1/package/npm/avalynx-datatable/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-datatable)
+
 ## AvalynxForm
 
 AvalynxForm is a lightweight, customizable form handling library for web applications.
@@ -38,6 +40,8 @@ AvalynxForm is a lightweight, customizable form handling library for web applica
 **Demo:** [open](https://avalynx-form.jbs-newmedia.de/examples/index.html)
 
 ![github stars](https://img.shields.io/github/stars/avalynx/avalynx-form)
+
+[![](https://data.jsdelivr.com/v1/package/npm/avalynx-form/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-form)
 
 ## AvalynxLightbox
 
@@ -49,6 +53,8 @@ AvalynxLightbox is a simple, lightweight, and easy-to-use lightbox library.
 
 ![github stars](https://img.shields.io/github/stars/avalynx/avalynx-lightbox)
 
+[![](https://data.jsdelivr.com/v1/package/npm/avalynx-lightbox/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-lightbox)
+
 ## AvalynxLoader
 
 AvalynxLoader is a lightweight JavaScript library designed to provide a loading overlay for DOM elements.
@@ -58,6 +64,8 @@ AvalynxLoader is a lightweight JavaScript library designed to provide a loading 
 **Demo:** [open](https://avalynx-loader.jbs-newmedia.de/examples/index.html)
 
 ![github stars](https://img.shields.io/github/stars/avalynx/avalynx-loader)
+
+[![](https://data.jsdelivr.com/v1/package/npm/avalynx-loader/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-loader)
 
 ## AvalynxModal
 
@@ -69,6 +77,8 @@ AvalynxModal is a simple modal system for web applications with fullscreen suppo
 
 ![github stars](https://img.shields.io/github/stars/avalynx/avalynx-modal)
 
+[![](https://data.jsdelivr.com/v1/package/npm/avalynx-modal/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-modal)
+
 ## AvalynxRef
 
 AvalynxRef is a Ref implementation for updating elements with a value like React's Ref or Vue's Ref.
@@ -78,6 +88,8 @@ AvalynxRef is a Ref implementation for updating elements with a value like React
 **Demo:** [open](https://avalynx-ref.jbs-newmedia.de/examples/index.html)
 
 ![github stars](https://img.shields.io/github/stars/avalynx/avalynx-ref)
+
+[![](https://data.jsdelivr.com/v1/package/npm/avalynx-ref/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-ref)
 
 ## AvalynxSelect
 
@@ -89,6 +101,8 @@ AvalynxSelect is a lightweight, customizable select dropdown component for web a
 
 ![github stars](https://img.shields.io/github/stars/avalynx/avalynx-select)
 
+[![](https://data.jsdelivr.com/v1/package/npm/avalynx-select/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-select)
+
 ## AvalynxSimpleAdmin
 
 AvalynxSimpleAdmin is a simple admin interface based on Bootstrap >=5.3.
@@ -99,6 +113,8 @@ AvalynxSimpleAdmin is a simple admin interface based on Bootstrap >=5.3.
 
 ![github stars](https://img.shields.io/github/stars/avalynx/avalynx-simpleadmin)
 
+[![](https://data.jsdelivr.com/v1/package/npm/avalynx-simpleadmin/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-simpleadmin)
+
 ## AvalynxTable
 
 AvalynxTable is a lightweight, dependency-free table system designed for responsive web applications. When the table's breakpoint is reached, the rows and columns stack on top of each other to create an easily readable view.
@@ -108,6 +124,8 @@ AvalynxTable is a lightweight, dependency-free table system designed for respons
 **Demo:** [open](https://avalynx-table.jbs-newmedia.de/examples/index.html)
 
 ![github stars](https://img.shields.io/github/stars/avalynx/avalynx-table)
+
+[![](https://data.jsdelivr.com/v1/package/npm/avalynx-table/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-table)
 
 
 ## Usage
