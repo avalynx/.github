@@ -25,27 +25,35 @@ AvalynxAlert is a lightweight, dependency-free alert system designed for web app
 
 ## AvalynxDatatable ##
 
-AvalynxDataTable is a simple, lightweight, and customizable datatable for the web.
+[![npm version](https://img.shields.io/npm/v/avalynx-datatable)](https://www.npmjs.com/package/avalynx-datatable)
+[![npm downloads](https://img.shields.io/npm/dt/avalynx-datatable)](https://www.npmjs.com/package/avalynx-datatable)
+[![jsDelivr](https://img.shields.io/jsdelivr/npm/hm/avalynx-datatable)](https://www.jsdelivr.com/package/npm/avalynx-datatable)
+[![License](https://img.shields.io/npm/l/avalynx-datatable)](LICENSE)
+[![Tests](https://github.com/avalynx/avalynx-datatable/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/avalynx/avalynx-datatable/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/avalynx/avalynx-datatable/branch/main/graph/badge.svg)](https://codecov.io/gh/avalynx/avalynx-datatable)
+[![GitHub stars](https://img.shields.io/github/stars/avalynx/avalynx-datatable?style=flat&logo=github)](https://github.com/avalynx/avalynx-datatable)
+
+AvalynxDataTable is a simple, lightweight, and customizable data table component for web applications. It is designed to be used with Bootstrap version 5.3 or higher and does not require any framework dependencies.
 
 **Status:** [available](https://github.com/avalynx/avalynx-datatable)
 
 **Demo:** [open](https://avalynx-datatable.jbs-newmedia.de/examples/index.html)
 
-![github stars](https://img.shields.io/github/stars/avalynx/avalynx-datatable)
-
-[![](https://data.jsdelivr.com/v1/package/npm/avalynx-datatable/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-datatable)
-
 ## AvalynxForm
 
-AvalynxForm is a lightweight, customizable form handling library for web applications.
+[![npm version](https://img.shields.io/npm/v/avalynx-form)](https://www.npmjs.com/package/avalynx-form)
+[![npm downloads](https://img.shields.io/npm/dt/avalynx-form)](https://www.npmjs.com/package/avalynx-form)
+[![jsDelivr](https://img.shields.io/jsdelivr/npm/hm/avalynx-form)](https://www.jsdelivr.com/package/npm/avalynx-form)
+[![License](https://img.shields.io/npm/l/avalynx-form)](LICENSE)
+[![Tests](https://github.com/avalynx/avalynx-form/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/avalynx/avalynx-form/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/avalynx/avalynx-form/branch/main/graph/badge.svg)](https://codecov.io/gh/avalynx/avalynx-form)
+[![GitHub stars](https://img.shields.io/github/stars/avalynx/avalynx-form?style=flat&logo=github)](https://github.com/avalynx/avalynx-form)
+
+AvalynxForm is a lightweight, customizable form handling library for web applications. Based on Bootstrap >=5.3 without any framework dependencies.
 
 **Status:** [available](https://github.com/avalynx/avalynx-form)
 
 **Demo:** [open](https://avalynx-form.jbs-newmedia.de/examples/index.html)
-
-![github stars](https://img.shields.io/github/stars/avalynx/avalynx-form)
-
-[![](https://data.jsdelivr.com/v1/package/npm/avalynx-form/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-form)
 
 ## AvalynxLightbox
 
