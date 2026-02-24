@@ -7,17 +7,20 @@
 
 This repository provides several useful Vanilla JS libraries based on **Bootstrap 5.3**. All libraries are licensed under the **MIT License** and offer simple, flexible solutions for web applications without external framework dependencies.
 
-## AvalynxAlert ##
+# AvalynxAlert
 
-AvalynxAlert is a simple alert system for web applications.
+[![npm version](https://img.shields.io/npm/v/avalynx-alert)](https://www.npmjs.com/package/avalynx-alert)
+[![npm downloads](https://img.shields.io/npm/dt/avalynx-alert)](https://www.npmjs.com/package/avalynx-alert)
+[![jsDelivr](https://img.shields.io/jsdelivr/npm/hm/avalynx-alert)](https://www.jsdelivr.com/package/npm/avalynx-alert)
+[![License](https://img.shields.io/npm/l/avalynx-alert)](LICENSE)
+[![Tests](https://github.com/avalynx/avalynx-alert/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/avalynx/avalynx-alert/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/avalynx/avalynx-alert/branch/main/graph/badge.svg)](https://codecov.io/gh/avalynx/avalynx-alert)
+
+AvalynxAlert is a lightweight, dependency-free alert system designed for web applications. It leverages Bootstrap (version 5.3 or higher) to provide a seamless integration with your project, offering a range of customizable alerts that can be positioned anywhere on the screen.
 
 **Status:** [available](https://github.com/avalynx/avalynx-alert)
 
 **Demo**: [open](https://avalynx-alert.jbs-newmedia.de/examples/index.html)
-
-![github stars](https://img.shields.io/github/stars/avalynx/avalynx-alert)
-
-[![](https://data.jsdelivr.com/v1/package/npm/avalynx-alert/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-alert)
 
 ## AvalynxDatatable ##
 
