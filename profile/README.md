@@ -7,7 +7,7 @@
 
 This repository provides several useful Vanilla JS libraries based on **Bootstrap 5.3**. All libraries are licensed under the **MIT License** and offer simple, flexible solutions for web applications without external framework dependencies.
 
-# AvalynxAlert
+## AvalynxAlert
 
 [![npm version](https://img.shields.io/npm/v/avalynx-alert)](https://www.npmjs.com/package/avalynx-alert)
 [![npm downloads](https://img.shields.io/npm/dt/avalynx-alert)](https://www.npmjs.com/package/avalynx-alert)
