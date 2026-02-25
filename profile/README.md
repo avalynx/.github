@@ -121,15 +121,19 @@ AvalynxRef is an implementation of a reference (Ref) system, similar to Refs in 
 
 ## AvalynxSelect
 
-AvalynxSelect is a lightweight, customizable select dropdown component for web applications.
+[![npm version](https://img.shields.io/npm/v/avalynx-select)](https://www.npmjs.com/package/avalynx-select)
+[![npm downloads](https://img.shields.io/npm/dt/avalynx-select)](https://www.npmjs.com/package/avalynx-select)
+[![jsDelivr](https://img.shields.io/jsdelivr/npm/hm/avalynx-select)](https://www.jsdelivr.com/package/npm/avalynx-select)
+[![License](https://img.shields.io/npm/l/avalynx-select)](LICENSE)
+[![Tests](https://github.com/avalynx/avalynx-select/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/avalynx/avalynx-select/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/avalynx/avalynx-select/branch/main/graph/badge.svg)](https://codecov.io/gh/avalynx/avalynx-select)
+[![GitHub stars](https://img.shields.io/github/stars/avalynx/avalynx-select?style=flat&logo=github)](https://github.com/avalynx/avalynx-select)
+
+AvalynxSelect is a lightweight, customizable select dropdown component for web applications. It is designed to be used with Bootstrap version 5.3 or higher and does not require any framework dependencies.
 
 **Status:** [available](https://github.com/avalynx/avalynx-select)
 
 **Demo:** [open](https://avalynx-select.jbs-newmedia.de/examples/index.html)
-
-![github stars](https://img.shields.io/github/stars/avalynx/avalynx-select)
-
-[![](https://data.jsdelivr.com/v1/package/npm/avalynx-select/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-select)
 
 ## AvalynxSimpleAdmin
 
