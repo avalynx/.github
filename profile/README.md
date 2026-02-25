@@ -105,15 +105,19 @@ AvalynxModal is a simple modal system for web applications with fullscreen suppo
 
 ## AvalynxRef
 
-AvalynxRef is a Ref implementation for updating elements with a value like React's Ref or Vue's Ref.
+[![npm version](https://img.shields.io/npm/v/avalynx-ref)](https://www.npmjs.com/package/avalynx-ref)
+[![npm downloads](https://img.shields.io/npm/dt/avalynx-ref)](https://www.npmjs.com/package/avalynx-ref)
+[![jsDelivr](https://img.shields.io/jsdelivr/npm/hm/avalynx-ref)](https://www.jsdelivr.com/package/npm/avalynx-ref)
+[![License](https://img.shields.io/npm/l/avalynx-ref)](LICENSE)
+[![Tests](https://github.com/avalynx/avalynx-ref/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/avalynx/avalynx-ref/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/avalynx/avalynx-ref/branch/main/graph/badge.svg)](https://codecov.io/gh/avalynx/avalynx-ref)
+[![GitHub stars](https://img.shields.io/github/stars/avalynx/avalynx-ref?style=flat&logo=github)](https://github.com/avalynx/avalynx-ref)
+
+AvalynxRef is an implementation of a reference (Ref) system, similar to Refs in React or Vue, designed for updating DOM elements with a specified value. This facilitates a reactive linkage between JavaScript data and the user interface.
 
 **Status:** [available](https://github.com/avalynx/avalynx-ref)
 
 **Demo:** [open](https://avalynx-ref.jbs-newmedia.de/examples/index.html)
-
-![github stars](https://img.shields.io/github/stars/avalynx/avalynx-ref)
-
-[![](https://data.jsdelivr.com/v1/package/npm/avalynx-ref/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-ref)
 
 ## AvalynxSelect
 
