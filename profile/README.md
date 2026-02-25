@@ -57,15 +57,19 @@ AvalynxForm is a lightweight, customizable form handling library for web applica
 
 ## AvalynxLightbox
 
-AvalynxLightbox is a simple, lightweight, and easy-to-use lightbox library.
+[![npm version](https://img.shields.io/npm/v/avalynx-lightbox)](https://www.npmjs.com/package/avalynx-lightbox)
+[![npm downloads](https://img.shields.io/npm/dt/avalynx-lightbox)](https://www.npmjs.com/package/avalynx-lightbox)
+[![jsDelivr](https://img.shields.io/jsdelivr/npm/hm/avalynx-lightbox)](https://www.jsdelivr.com/package/npm/avalynx-lightbox)
+[![License](https://img.shields.io/npm/l/avalynx-lightbox)](LICENSE)
+[![Tests](https://github.com/avalynx/avalynx-lightbox/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/avalynx/avalynx-lightbox/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/avalynx/avalynx-lightbox/branch/main/graph/badge.svg)](https://codecov.io/gh/avalynx/avalynx-lightbox)
+[![GitHub stars](https://img.shields.io/github/stars/avalynx/avalynx-lightbox?style=flat&logo=github)](https://github.com/avalynx/avalynx-lightbox)
+
+AvalynxLightbox is a simple, lightweight, and easy-to-use lightbox library, built on Bootstrap 5.3+ without any framework dependencies. It allows you to display images in a lightbox format with customizable options, perfect for integrating into modern web applications.
 
 **Status:** [available](https://github.com/avalynx/avalynx-lightbox)
 
 **Demo:** [open](https://avalynx-lightbox.jbs-newmedia.de/examples/index.html)
-
-![github stars](https://img.shields.io/github/stars/avalynx/avalynx-lightbox)
-
-[![](https://data.jsdelivr.com/v1/package/npm/avalynx-lightbox/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-lightbox)
 
 ## AvalynxLoader
 
