@@ -145,15 +145,19 @@ AvalynxSimpleAdmin is a simple admin interface based on Bootstrap >=5.3.
 
 ## AvalynxTable
 
-AvalynxTable is a lightweight, dependency-free table system designed for responsive web applications. When the table's breakpoint is reached, the rows and columns stack on top of each other to create an easily readable view.
+[![npm version](https://img.shields.io/npm/v/avalynx-table)](https://www.npmjs.com/package/avalynx-table)
+[![npm downloads](https://img.shields.io/npm/dt/avalynx-table)](https://www.npmjs.com/package/avalynx-table)
+[![jsDelivr](https://img.shields.io/jsdelivr/npm/hm/avalynx-table)](https://www.jsdelivr.com/package/npm/avalynx-table)
+[![License](https://img.shields.io/npm/l/avalynx-table)](LICENSE)
+[![Tests](https://github.com/avalynx/avalynx-table/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/avalynx/avalynx-table/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/avalynx/avalynx-table/branch/main/graph/badge.svg)](https://codecov.io/gh/avalynx/avalynx-table)
+[![GitHub stars](https://img.shields.io/github/stars/avalynx/avalynx-table?style=flat&logo=github)](https://github.com/avalynx/avalynx-table)
+
+AvalynxTable is a lightweight, dependency-free table system designed for responsive web applications. It leverages Bootstrap (version 5.3 or higher) to provide a seamless integration with your project. When the table's breakpoint is reached, the rows and columns stack on top of each other to create an easily readable view.
 
 **Status:** [available](https://github.com/avalynx/avalynx-table)
 
 **Demo:** [open](https://avalynx-table.jbs-newmedia.de/examples/index.html)
-
-![github stars](https://img.shields.io/github/stars/avalynx/avalynx-table)
-
-[![](https://data.jsdelivr.com/v1/package/npm/avalynx-table/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-table)
 
 
 ## Usage
