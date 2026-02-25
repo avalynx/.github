@@ -73,15 +73,19 @@ AvalynxLightbox is a simple, lightweight, and easy-to-use lightbox library, buil
 
 ## AvalynxLoader
 
-AvalynxLoader is a lightweight JavaScript library designed to provide a loading overlay for DOM elements.
+[![npm version](https://img.shields.io/npm/v/avalynx-loader)](https://www.npmjs.com/package/avalynx-loader)
+[![npm downloads](https://img.shields.io/npm/dt/avalynx-loader)](https://www.npmjs.com/package/avalynx-loader)
+[![jsDelivr](https://img.shields.io/jsdelivr/npm/hm/avalynx-loader)](https://www.jsdelivr.com/package/npm/avalynx-loader)
+[![License](https://img.shields.io/npm/l/avalynx-loader)](LICENSE)
+[![Tests](https://github.com/avalynx/avalynx-loader/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/avalynx/avalynx-loader/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/avalynx/avalynx-loader/branch/main/graph/badge.svg)](https://codecov.io/gh/avalynx/avalynx-loader)
+[![GitHub stars](https://img.shields.io/github/stars/avalynx/avalynx-loader?style=flat&logo=github)](https://github.com/avalynx/avalynx-loader)
+
+AvalynxLoader is a lightweight JavaScript library designed to provide a loading overlay for DOM elements. Based on Bootstrap >=5.3 without any framework dependencies.
 
 **Status:** [available](https://github.com/avalynx/avalynx-loader)
 
 **Demo:** [open](https://avalynx-loader.jbs-newmedia.de/examples/index.html)
-
-![github stars](https://img.shields.io/github/stars/avalynx/avalynx-loader)
-
-[![](https://data.jsdelivr.com/v1/package/npm/avalynx-loader/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-loader)
 
 ## AvalynxModal
 
