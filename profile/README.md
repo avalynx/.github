@@ -89,15 +89,19 @@ AvalynxLoader is a lightweight JavaScript library designed to provide a loading 
 
 ## AvalynxModal
 
-AvalynxModal is a simple modal system for web applications with fullscreen support.
+[![npm version](https://img.shields.io/npm/v/avalynx-modal)](https://www.npmjs.com/package/avalynx-modal)
+[![npm downloads](https://img.shields.io/npm/dt/avalynx-modal)](https://www.npmjs.com/package/avalynx-modal)
+[![jsDelivr](https://img.shields.io/jsdelivr/npm/hm/avalynx-modal)](https://www.jsdelivr.com/package/npm/avalynx-modal)
+[![License](https://img.shields.io/npm/l/avalynx-modal)](LICENSE)
+[![Tests](https://github.com/avalynx/avalynx-modal/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/avalynx/avalynx-modal/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/avalynx/avalynx-modal/branch/main/graph/badge.svg)](https://codecov.io/gh/avalynx/avalynx-modal)
+[![GitHub stars](https://img.shields.io/github/stars/avalynx/avalynx-modal?style=flat&logo=github)](https://github.com/avalynx/avalynx-modal)
+
+AvalynxModal is a simple modal system for web applications with fullscreen support. Based on Bootstrap >=5.3 without any framework dependencies.
 
 **Status:** [available](https://github.com/avalynx/avalynx-modal)
 
 **Demo:** [open](https://avalynx-modal.jbs-newmedia.de/examples/index.html)
-
-![github stars](https://img.shields.io/github/stars/avalynx/avalynx-modal)
-
-[![](https://data.jsdelivr.com/v1/package/npm/avalynx-modal/badge?style=rounded)](https://www.jsdelivr.com/package/npm/avalynx-modal)
 
 ## AvalynxRef
 
