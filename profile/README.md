@@ -23,7 +23,23 @@ AvalynxAlert is a lightweight, dependency-free alert system designed for web app
 
 **Demo**: [open](https://avalynx-alert.jbs-newmedia.de/examples/index.html)
 
-## AvalynxDatatable ##
+## AvalynxAutocomplete
+
+[![npm version](https://img.shields.io/npm/v/avalynx-autocomplete)](https://www.npmjs.com/package/avalynx-autocomplete)
+[![npm downloads](https://img.shields.io/npm/dt/avalynx-autocomplete)](https://www.npmjs.com/package/avalynx-autocomplete)
+[![jsDelivr](https://img.shields.io/jsdelivr/npm/hm/avalynx-autocomplete)](https://www.jsdelivr.com/package/npm/avalynx-autocomplete)
+[![License](https://img.shields.io/npm/l/avalynx-autocomplete)](LICENSE)
+[![Tests](https://github.com/avalynx/avalynx-autocomplete/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/avalynx/avalynx-autocomplete/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/avalynx/avalynx-autocomplete/branch/main/graph/badge.svg)](https://codecov.io/gh/avalynx/avalynx-autocomplete)
+[![GitHub stars](https://img.shields.io/github/stars/avalynx/avalynx-autocomplete?style=flat&logo=github)](https://github.com/avalynx/avalynx-autocomplete)
+
+AvalynxAutocomplete is a lightweight, customizable autocomplete component for web applications. It is designed to be used with Bootstrap version 5.3 or higher and does not require any framework dependencies.
+
+**Status:** [available](https://github.com/avalynx/avalynx-autocomplete)
+
+**Demo:** [open](https://avalynx-autocomplete.jbs-newmedia.de/examples/index.html)
+
+## AvalynxDatatable
 
 [![npm version](https://img.shields.io/npm/v/avalynx-datatable)](https://www.npmjs.com/package/avalynx-datatable)
 [![npm downloads](https://img.shields.io/npm/dt/avalynx-datatable)](https://www.npmjs.com/package/avalynx-datatable)
