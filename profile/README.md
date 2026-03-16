@@ -39,6 +39,22 @@ AvalynxAutocomplete is a lightweight, customizable autocomplete component for we
 
 **Demo:** [open](https://avalynx-autocomplete.jbs-newmedia.de/examples/index.html)
 
+## AvalynxCardslider
+
+[![npm version](https://img.shields.io/npm/v/avalynx-cardslider)](https://www.npmjs.com/package/avalynx-cardslider)
+[![npm downloads](https://img.shields.io/npm/dt/avalynx-cardslider)](https://www.npmjs.com/package/avalynx-cardslider)
+[![jsDelivr](https://img.shields.io/jsdelivr/npm/hm/avalynx-cardslider)](https://www.jsdelivr.com/package/npm/avalynx-cardslider)
+[![License](https://img.shields.io/npm/l/avalynx-cardslider)](LICENSE)
+[![Tests](https://github.com/avalynx/avalynx-cardslider/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/avalynx/avalynx-cardslider/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/avalynx/avalynx-cardslider/branch/main/graph/badge.svg)](https://codecov.io/gh/avalynx/avalynx-cardslider)
+[![GitHub stars](https://img.shields.io/github/stars/avalynx/avalynx-cardslider?style=flat&logo=github)](https://github.com/avalynx/avalynx-cardslider)
+
+AvalynxCardSlider is a lightweight, native JavaScript slider designed specifically for the Bootstrap grid system. It uses Bootstrap columns (version 5.3+) and slides smoothly either card by card or page by page. No framework dependencies such as jQuery or Swiper.
+
+**Status:** [available](https://github.com/avalynx/avalynx-cardslider)
+
+**Demo:** [open](https://avalynx-cardslider.jbs-newmedia.de/examples/index.html)
+
 ## AvalynxDatatable
 
 [![npm version](https://img.shields.io/npm/v/avalynx-datatable)](https://www.npmjs.com/package/avalynx-datatable)
