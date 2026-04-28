@@ -11,6 +11,8 @@ This repository provides several useful Vanilla JS libraries based on **Bootstra
 
 [![npm version](https://jbs-newmedia.de/badge/npm/avalynx-alert/version.svg)](https://www.npmjs.com/package/avalynx-alert)
 [![npm downloads](https://jbs-newmedia.de/badge/npm/avalynx-alert/download.svg)](https://www.npmjs.com/package/avalynx-alert)
+[![Composer version](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-alert/version.svg)](https://packagist.org/packages/avalynx/avalynx-alert)
+[![Composer downloads](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-alert/download.svg)](https://packagist.org/packages/avalynx/avalynx-alert)
 [![jsDelivr](https://jbs-newmedia.de/badge/jsdelivr/avalynx-alert/hits.svg)](https://www.jsdelivr.com/package/npm/avalynx-alert)
 [![License](https://jbs-newmedia.de/badge/npm/avalynx-alert/license.svg)](LICENSE)
 [![Tests](https://jbs-newmedia.de/badge/github/avalynx/avalynx-alert/tests.svg)](https://github.com/avalynx/avalynx-alert/actions/workflows/tests.yml)
@@ -27,6 +29,8 @@ AvalynxAlert is a lightweight, dependency-free alert system designed for web app
 
 [![npm version](https://jbs-newmedia.de/badge/npm/avalynx-autocomplete/version.svg)](https://www.npmjs.com/package/avalynx-autocomplete)
 [![npm downloads](https://jbs-newmedia.de/badge/npm/avalynx-autocomplete/download.svg)](https://www.npmjs.com/package/avalynx-autocomplete)
+[![Composer version](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-autocomplete/version.svg)](https://packagist.org/packages/avalynx/avalynx-autocomplete)
+[![Composer downloads](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-autocomplete/download.svg)](https://packagist.org/packages/avalynx/avalynx-autocomplete)
 [![jsDelivr](https://jbs-newmedia.de/badge/jsdelivr/avalynx-autocomplete/hits.svg)](https://www.jsdelivr.com/package/npm/avalynx-autocomplete)
 [![License](https://jbs-newmedia.de/badge/npm/avalynx-autocomplete/license.svg)](LICENSE)
 [![Tests](https://jbs-newmedia.de/badge/github/avalynx/avalynx-autocomplete/tests.svg)](https://github.com/avalynx/avalynx-autocomplete/actions/workflows/tests.yml)
@@ -43,6 +47,8 @@ AvalynxAutocomplete is a lightweight, customizable autocomplete component for we
 
 [![npm version](https://jbs-newmedia.de/badge/npm/avalynx-cardslider/version.svg)](https://www.npmjs.com/package/avalynx-cardslider)
 [![npm downloads](https://jbs-newmedia.de/badge/npm/avalynx-cardslider/download.svg)](https://www.npmjs.com/package/avalynx-cardslider)
+[![Composer version](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-cardslider/version.svg)](https://packagist.org/packages/avalynx/avalynx-cardslider)
+[![Composer downloads](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-cardslider/download.svg)](https://packagist.org/packages/avalynx/avalynx-cardslider)
 [![jsDelivr](https://jbs-newmedia.de/badge/jsdelivr/avalynx-cardslider/hits.svg)](https://www.jsdelivr.com/package/npm/avalynx-cardslider)
 [![License](https://jbs-newmedia.de/badge/npm/avalynx-cardslider/license.svg)](LICENSE)
 [![Tests](https://jbs-newmedia.de/badge/github/avalynx/avalynx-cardslider/tests.svg)](https://github.com/avalynx/avalynx-cardslider/actions/workflows/tests.yml)
@@ -59,6 +65,8 @@ AvalynxCardSlider is a lightweight, native JavaScript slider designed specifical
 
 [![npm version](https://jbs-newmedia.de/badge/npm/avalynx-datatable/version.svg)](https://www.npmjs.com/package/avalynx-datatable)
 [![npm downloads](https://jbs-newmedia.de/badge/npm/avalynx-datatable/download.svg)](https://www.npmjs.com/package/avalynx-datatable)
+[![Composer version](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-datatable/version.svg)](https://packagist.org/packages/avalynx/avalynx-datatable)
+[![Composer downloads](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-datatable/download.svg)](https://packagist.org/packages/avalynx/avalynx-datatable)
 [![jsDelivr](https://jbs-newmedia.de/badge/jsdelivr/avalynx-datatable/hits.svg)](https://www.jsdelivr.com/package/npm/avalynx-datatable)
 [![License](https://jbs-newmedia.de/badge/npm/avalynx-datatable/license.svg)](LICENSE)
 [![Tests](https://jbs-newmedia.de/badge/github/avalynx/avalynx-datatable/tests.svg)](https://github.com/avalynx/avalynx-datatable/actions/workflows/tests.yml)
@@ -75,6 +83,8 @@ AvalynxDataTable is a simple, lightweight, and customizable data table component
 
 [![npm version](https://jbs-newmedia.de/badge/npm/avalynx-form/version.svg)](https://www.npmjs.com/package/avalynx-form)
 [![npm downloads](https://jbs-newmedia.de/badge/npm/avalynx-form/download.svg)](https://www.npmjs.com/package/avalynx-form)
+[![Composer version](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-form/version.svg)](https://packagist.org/packages/avalynx/avalynx-form)
+[![Composer downloads](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-form/download.svg)](https://packagist.org/packages/avalynx/avalynx-form)
 [![jsDelivr](https://jbs-newmedia.de/badge/jsdelivr/avalynx-form/hits.svg)](https://www.jsdelivr.com/package/npm/avalynx-form)
 [![License](https://jbs-newmedia.de/badge/npm/avalynx-form/license.svg)](LICENSE)
 [![Tests](https://jbs-newmedia.de/badge/github/avalynx/avalynx-form/tests.svg)](https://github.com/avalynx/avalynx-form/actions/workflows/tests.yml)
@@ -91,6 +101,8 @@ AvalynxForm is a lightweight, customizable form handling library for web applica
 
 [![npm version](https://jbs-newmedia.de/badge/npm/avalynx-lightbox/version.svg)](https://www.npmjs.com/package/avalynx-lightbox)
 [![npm downloads](https://jbs-newmedia.de/badge/npm/avalynx-lightbox/download.svg)](https://www.npmjs.com/package/avalynx-lightbox)
+[![Composer version](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-lightbox/version.svg)](https://packagist.org/packages/avalynx/avalynx-lightbox)
+[![Composer downloads](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-lightbox/download.svg)](https://packagist.org/packages/avalynx/avalynx-lightbox)
 [![jsDelivr](https://jbs-newmedia.de/badge/jsdelivr/avalynx-lightbox/hits.svg)](https://www.jsdelivr.com/package/npm/avalynx-lightbox)
 [![License](https://jbs-newmedia.de/badge/npm/avalynx-lightbox/license.svg)](LICENSE)
 [![Tests](https://jbs-newmedia.de/badge/github/avalynx/avalynx-lightbox/tests.svg)](https://github.com/avalynx/avalynx-lightbox/actions/workflows/tests.yml)
@@ -107,6 +119,8 @@ AvalynxLightbox is a simple, lightweight, and easy-to-use lightbox library, buil
 
 [![npm version](https://jbs-newmedia.de/badge/npm/avalynx-loader/version.svg)](https://www.npmjs.com/package/avalynx-loader)
 [![npm downloads](https://jbs-newmedia.de/badge/npm/avalynx-loader/download.svg)](https://www.npmjs.com/package/avalynx-loader)
+[![Composer version](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-loader/version.svg)](https://packagist.org/packages/avalynx/avalynx-loader)
+[![Composer downloads](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-loader/download.svg)](https://packagist.org/packages/avalynx/avalynx-loader)
 [![jsDelivr](https://jbs-newmedia.de/badge/jsdelivr/avalynx-loader/hits.svg)](https://www.jsdelivr.com/package/npm/avalynx-loader)
 [![License](https://jbs-newmedia.de/badge/npm/avalynx-loader/license.svg)](LICENSE)
 [![Tests](https://jbs-newmedia.de/badge/github/avalynx/avalynx-loader/tests.svg)](https://github.com/avalynx/avalynx-loader/actions/workflows/tests.yml)
@@ -123,6 +137,8 @@ AvalynxLoader is a lightweight JavaScript library designed to provide a loading 
 
 [![npm version](https://jbs-newmedia.de/badge/npm/avalynx-modal/version.svg)](https://www.npmjs.com/package/avalynx-modal)
 [![npm downloads](https://jbs-newmedia.de/badge/npm/avalynx-modal/download.svg)](https://www.npmjs.com/package/avalynx-modal)
+[![Composer version](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-modal/version.svg)](https://packagist.org/packages/avalynx/avalynx-modal)
+[![Composer downloads](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-modal/download.svg)](https://packagist.org/packages/avalynx/avalynx-modal)
 [![jsDelivr](https://jbs-newmedia.de/badge/jsdelivr/avalynx-modal/hits.svg)](https://www.jsdelivr.com/package/npm/avalynx-modal)
 [![License](https://jbs-newmedia.de/badge/npm/avalynx-modal/license.svg)](LICENSE)
 [![Tests](https://jbs-newmedia.de/badge/github/avalynx/avalynx-modal/tests.svg)](https://github.com/avalynx/avalynx-modal/actions/workflows/tests.yml)
@@ -139,6 +155,8 @@ AvalynxModal is a simple modal system for web applications with fullscreen suppo
 
 [![npm version](https://jbs-newmedia.de/badge/npm/avalynx-ref/version.svg)](https://www.npmjs.com/package/avalynx-ref)
 [![npm downloads](https://jbs-newmedia.de/badge/npm/avalynx-ref/download.svg)](https://www.npmjs.com/package/avalynx-ref)
+[![Composer version](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-ref/version.svg)](https://packagist.org/packages/avalynx/avalynx-ref)
+[![Composer downloads](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-ref/download.svg)](https://packagist.org/packages/avalynx/avalynx-ref)
 [![jsDelivr](https://jbs-newmedia.de/badge/jsdelivr/avalynx-ref/hits.svg)](https://www.jsdelivr.com/package/npm/avalynx-ref)
 [![License](https://jbs-newmedia.de/badge/npm/avalynx-ref/license.svg)](LICENSE)
 [![Tests](https://jbs-newmedia.de/badge/github/avalynx/avalynx-ref/tests.svg)](https://github.com/avalynx/avalynx-ref/actions/workflows/tests.yml)
@@ -155,6 +173,8 @@ AvalynxRef is an implementation of a reference (Ref) system, similar to Refs in 
 
 [![npm version](https://jbs-newmedia.de/badge/npm/avalynx-select/version.svg)](https://www.npmjs.com/package/avalynx-select)
 [![npm downloads](https://jbs-newmedia.de/badge/npm/avalynx-select/download.svg)](https://www.npmjs.com/package/avalynx-select)
+[![Composer version](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-select/version.svg)](https://packagist.org/packages/avalynx/avalynx-select)
+[![Composer downloads](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-select/download.svg)](https://packagist.org/packages/avalynx/avalynx-select)
 [![jsDelivr](https://jbs-newmedia.de/badge/jsdelivr/avalynx-select/hits.svg)](https://www.jsdelivr.com/package/npm/avalynx-select)
 [![License](https://jbs-newmedia.de/badge/npm/avalynx-select/license.svg)](LICENSE)
 [![Tests](https://jbs-newmedia.de/badge/github/avalynx/avalynx-select/tests.svg)](https://github.com/avalynx/avalynx-select/actions/workflows/tests.yml)
@@ -176,12 +196,16 @@ AvalynxSimpleAdmin is a simple admin interface based on Bootstrap >=5.3.
 **Demo:** in progress
 
 [![GitHub stars](https://jbs-newmedia.de/badge/github/avalynx/avalynx-simpleadmin/stars.svg)](https://github.com/avalynx/avalynx-simpleadmin)
+[![Composer version](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-simpleadmin/version.svg)](https://packagist.org/packages/avalynx/avalynx-simpleadmin)
+[![Composer downloads](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-simpleadmin/download.svg)](https://packagist.org/packages/avalynx/avalynx-simpleadmin)
 [![jsDelivr](https://jbs-newmedia.de/badge/jsdelivr/avalynx-simpleadmin/hits.svg)](https://www.jsdelivr.com/package/npm/avalynx-simpleadmin)
 
 ## AvalynxTable
 
 [![npm version](https://jbs-newmedia.de/badge/npm/avalynx-table/version.svg)](https://www.npmjs.com/package/avalynx-table)
 [![npm downloads](https://jbs-newmedia.de/badge/npm/avalynx-table/download.svg)](https://www.npmjs.com/package/avalynx-table)
+[![Composer version](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-table/version.svg)](https://packagist.org/packages/avalynx/avalynx-table)
+[![Composer downloads](https://jbs-newmedia.de/badge/composer/avalynx/avalynx-table/download.svg)](https://packagist.org/packages/avalynx/avalynx-table)
 [![jsDelivr](https://jbs-newmedia.de/badge/jsdelivr/avalynx-table/hits.svg)](https://www.jsdelivr.com/package/npm/avalynx-table)
 [![License](https://jbs-newmedia.de/badge/npm/avalynx-table/license.svg)](LICENSE)
 [![Tests](https://jbs-newmedia.de/badge/github/avalynx/avalynx-table/tests.svg)](https://github.com/avalynx/avalynx-table/actions/workflows/tests.yml)
